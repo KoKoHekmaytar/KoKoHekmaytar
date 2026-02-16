@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Jiahe Wang
 
 🎓 PhD student in Dr. Sun's Robotic Actuators & Dynamics lab, Arizona State University 
+
 🤖 Research Focus: Soft Robotics | Data-Driven Control | Koopman Operator Theory | MPC  
+
 📍 Currently working on learning-based modeling and control of cable-driven soft robots  
 
 ---
